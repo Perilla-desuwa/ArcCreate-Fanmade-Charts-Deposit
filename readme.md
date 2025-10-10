@@ -20,9 +20,10 @@
 | ---------------------------- | ------------------ | ------------------------------- | ------- | --------- | --------------|------------------------ |
 | `Perilla.bibideba.arcpkg`    | ビビデバ           | ツミキ feat. 星街すいせい       | 168 | 120   | Future 10   | 我好dokidoki kirakira wakuwaku停不下啦 |
 | `Perilla.droseratrap.arcpkg` | ドロセラ・トラップ | ないきすと！                    | 139     | 102    | Future 10   | 铜丝你                                 |
-| `Perilla.innostar.arcpkg`    | InnoStar           | plus alpha feat. LyuU           | 137     | 120  | Future 8 / Eternal 9     | 小时候打哭啦                          |
+| `Perilla.innostar.arcpkg`    | InnoStar           | plus alpha feat. LyuU           | 137     | 120  | Future 8 / Eternal 9     | 小时候最喜欢的一首                     |
 | `Perilla.murimuri.arcpkg`    | ムリムリ進化論     | ナユタン星人 feat. ナナヲアカリ | 90      | 181     | Future 10  | 真百，你崛起吧！！                     |
 | `Perilla.zanshi.arcpkg` | 愛の残滓 | 佐高陵平 feat. 藍月なくる | 144 | 174 | Eternal 10 | 以黑化 |
+| `Perilla.nie.arcpkg` | 贄-nie- | ユリイ・カノン feat. 吉乃 | 89      | 123       | Future 10 |                                        |
 
 #### Trolls 文件夹
 
